@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LastMileTest</string>
+
+    <string name="overview">Overview: %s</string>
+    <string name="runtime">Runtime: %d</string>
+    <string name="genre">Genre: %s</string>
+
+</resources>
